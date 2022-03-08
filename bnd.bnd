@@ -1,0 +1,9 @@
+Bundle-Name: DTM2Angular
+Bundle-SymbolicName: test.local
+Bundle-Version: 1.0.5
+Export-Package: \
+	test.local.constants,\
+	test.local.configuration,\
+	test.local.portlet
+Web-ContextPath: /DTM2Angular
+-metatype: *
